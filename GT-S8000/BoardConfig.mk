@@ -23,5 +23,5 @@ LOCAL_PATH := $(call my-dir)
 #
 # Hack, because i'm lazy :)
 #
-include device/samsung/spica/BoardConfig.mk
+include device/samsung/jet/BoardConfig.mk
 
